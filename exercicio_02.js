@@ -1,4 +1,4 @@
-function atividade2(){
+function ContagemRegressiva(){
     console.log("Contagem regressiva:");
     let i = 10;
     while (i >= 1){
@@ -6,4 +6,3 @@ function atividade2(){
         i--;
     }    
 }
-//atividade2();

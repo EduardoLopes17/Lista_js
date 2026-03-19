@@ -21,4 +21,3 @@ function balancoFinanceiro() {
     alert("Ganho bruto anual: " + somaGanhoBruto + "\nGasto Anual: " + somaGastoAnual + "\nSaldo financeiro anual: " + saldoFinanceiro);
 }
 
-//balancoFinanceiro()
