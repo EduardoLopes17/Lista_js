@@ -1,2 +1,2 @@
-function DuasVariáveis() { 
+function DuasVariaveis() { 
 }

@@ -1,2 +1,2 @@
-function ParÍmpar() { 
+function Parimpar() { 
 }

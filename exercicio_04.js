@@ -1,4 +1,4 @@
-function OrdenaçãoValores() { 
+function OrdenacaoValores() { 
     let numeros = [];
     for (let i = 0 ; i <4; 1++){
         numeros.push(Number(prompt("Digite um número"))); 

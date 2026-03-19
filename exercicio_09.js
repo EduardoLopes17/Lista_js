@@ -1,2 +1,2 @@
-function Ordenação2Números() { 
+function Ordenacao2Numeros() { 
 }
