@@ -6,4 +6,4 @@ function atividade2(){
         i--;
     }    
 }
-atividade2();
+//atividade2();
