@@ -1,6 +1,12 @@
+body{
+    background-color: black;
+}
+
 button{
-    background-color: red;
+    background-color: rgb(56, 105, 0);
     border-radius: 15px;
+    padding: 30px;
     text-align: center;
-    
+    border: white;
+
 }
