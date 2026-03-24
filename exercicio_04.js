@@ -1,9 +1,9 @@
-function OrdenacaoValores() { 
+function Ordenacao() { 
     let numeros = [];
-    for (let i = 0 ; i <4; 1++){
+    for (let i = 0 ; i <4; i++){
         numeros.push(Number(prompt("Digite um número"))); 
     }
     numeros.sort((a,b) => b - a);
-    alert.log("Ordem decresente:" + numeros);
+    console.log("Ordem decresente:" + numeros);
 }
 

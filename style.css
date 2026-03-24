@@ -1,12 +1,12 @@
 body{
-    background-color: black;
+    background-color: rgb(3, 78, 22);
+    justify-content: center;
 }
 
 button{
-    background-color: rgb(56, 105, 0);
+    background-color: rgb(129, 240, 19);
     border-radius: 15px;
     padding: 30px;
     text-align: center;
-    border: white;
-
+    
 }
